@@ -87,7 +87,7 @@ Next, we will create agents. These are help desk professionals, who will check a
 <img src="https://i.imgur.com/WJDQ407.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we will create a team that will allow multiple agents from different departments to collaborate on the same team, for example, when an SLA needs to be met. We will create the team from the Admin Panel, then navigate to "Agents," click "Teams," and select "Add New Team." Name this team "Level II Support," then click the "Members" tab and add yourself to the team.
+Next, we will configure users. These are the customers or staff who submit tickets to the Help Desk for resolution. To add users, switch to the "Agent Panel.". Under "Users," click "Create New User." Name the first user "Karen Karen," her email address is karen @osticket.com. Click "Add User." Repeat the same steps to add another user, named "Ken."
 </p>
 <br />
 
