@@ -66,7 +66,7 @@ Next, we will create a team that will allow multiple agents from different depar
 
 <h3>Step 4: Allow Anyone To Create Tickets</h3><br>
 <p>
-<img src="https://i.imgur.com/FNlVcRe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GpJY6iU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This allows any user to create Tickets even if he/she is not in the system. To do this, from the Admin Panel, navigate to "Settings," and uncheck the box for "Require registration and login to create tickets."
