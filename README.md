@@ -30,28 +30,72 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Step 6: Configure Users
 - Step 7: Configure SLAs and Help Topics
 
-<h2>Configuration Steps</h2>
+<h2>Configuration Steps</h2><br>
+
+<h3>Step 1: Configure Roles</h3><br>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Tm3p5Xy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, we will create a "Supreme Admin" role and give this role full access. To do this, access the Admin panel and go to "Agents," then go to "Roles," then "Add New Role." Enter the name "Supreme Admin. Go to "Permissions," and check each box, this gives the agents access to perform these tasks.
 </p>
 <br />
 
+
+<h3>Step 2: Configure Departments</h3><br>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DcUVWiD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we will create a "Systems Admin" department within the Admin panel. Navigate to "Agents," then go to "Departments," and select "Add New Department." Name this department "Systems Administrators." For this project, we will keep the default settings and click "Create Department."
+  
 </p>
 <br />
 
+
+<h3>Step 3: Configure Teams</h3><br>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WJDQ407.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we will create a team that will allow multiple agents from different departments to collaborate on the same team, for example, when an SLA needs to be met. We will create the team from the Admin Panel, then navigate to "Agents," click "Teams," and select "Add New Team." Name this team "Level II Support," then click the "Members" tab and add yourself to the team.
+</p>
+<br />
+
+<h3>Step 4: Allow Anyone To Create Tickets</h3><br>
+<p>
+<img src="https://i.imgur.com/FNlVcRe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This allows any user to create Tickets even if he/she is not in the system. To do this, from the Admin Panel, navigate to "Settings," and uncheck the box for "Require registration and login to create tickets."
+</p>
+<br />
+
+<h3>Step 5: Configure Agents</h3><br>
+<p>
+<img src="https://i.imgur.com/ySR91KJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will create agents. These are help desk professionals, who will check and resolve tickets. In the Admin Panel, under "Agents," click "Add New Agent." The first agent we create is called "Jane Neal." Her email address is, "jane.neal@osticket.com" and her username is  "jane.neal." Click "Set Password" and uncheck the box for "Send the agent a password reset email." Create a password for Jane. Uncheck the box for, "Require password change at next login," and click "Set." Next, we will set Jane's permissions. Navigate to the "Access" tab, put Jane in the System Administrators" department as a "Supreme Admin." Navigate to "Teams" and add her to "Level II Support;" click "Create." Jane's account is now created. To create a second agent, named "John Nash," follow Step 5 again. Set his department as "Support," and "View Only." Once these steps are completed, you should see Jane and John under "Agents," along with their respective departments listed.
+</p>
+<br />
+
+<h3>Step 6: Configure Users</h3><br>
+<p>
+<img src="https://i.imgur.com/WJDQ407.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will create a team that will allow multiple agents from different departments to collaborate on the same team, for example, when an SLA needs to be met. We will create the team from the Admin Panel, then navigate to "Agents," click "Teams," and select "Add New Team." Name this team "Level II Support," then click the "Members" tab and add yourself to the team.
+</p>
+<br />
+
+<h3>Step 7: Configure SLAs and Help Topics</h3><br>
+<p>
+<img src="https://i.imgur.com/WJDQ407.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will create a team that will allow multiple agents from different departments to collaborate on the same team, for example, when an SLA needs to be met. We will create the team from the Admin Panel, then navigate to "Agents," click "Teams," and select "Add New Team." Name this team "Level II Support," then click the "Members" tab and add yourself to the team.
 </p>
 <br />
