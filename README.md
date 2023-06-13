@@ -84,10 +84,10 @@ Next, we will create agents. These are help desk professionals, who will check a
 
 <h3>Step 6: Configure Users</h3><br>
 <p>
-<img src="https://i.imgur.com/WJDQ407.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hipIVGh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we will configure users. These are the customers or staff who submit tickets to the Help Desk for resolution. To add users, switch to the "Agent Panel.". Under "Users," click "Create New User." Name the first user "Karen Karen," her email address is karen @osticket.com. Click "Add User." Repeat the same steps to add another user, named "Ken."
+Next, we will configure users. This is anyone, such as the customers or staff, who submits tickets to the Help Desk for resolution. To add users, switch to the "Agent Panel." Under "Users," click "Create New User." Name the first user "Karen Karen," her email address is Karen@osticket.com. Click "Add User." Repeat the same steps to add another user, named "Ken Ken."
 </p>
 <br />
 
