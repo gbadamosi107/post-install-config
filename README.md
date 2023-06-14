@@ -60,7 +60,7 @@ Next, we will create a "Systems Admin" department within the Admin panel. Naviga
 <img src="https://i.imgur.com/WJDQ407.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we will create a team that will allow multiple agents from different departments to collaborate on the same team, for example, when an SLA needs to be met. We will create the team from the Admin Panel, then navigate to "Agents," click "Teams," and select "Add New Team." Name this team "Level II Support," then click the "Members" tab and add yourself to the team.
+Next, we will create a team that will allow multiple agents from different departments to collaborate on the same team. We will create the team from the Admin Panel, then navigate to "Agents," click "Teams," and select "Add New Team." Name this team "Level II Support," then click the "Members" tab and add yourself to the team.
 </p>
 <br />
 
