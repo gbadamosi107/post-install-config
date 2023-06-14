@@ -105,6 +105,6 @@ Next, we will configure Service Level Agreements (SLAs). The purpose of an SLA i
 <img src="https://i.imgur.com/csblTR6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Last in this section, we will configure Help Topics. Help topics enable end-users to easily select from a list which issues they need resolved. In the Admin Panel, navigate to "Manage," then to "Help Topics," then click "Add New Help Topic." We will create the following 4 Help Topics, "Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset."
+Last, we will configure Help Topics. Help topics enable end-users to easily select from a list which issues they need resolved. In the Admin Panel, navigate to "Manage," then to "Help Topics," then click "Add New Help Topic." We will create the following 4 Help Topics, "Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset."
 </p>
 <br />
