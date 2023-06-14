@@ -39,7 +39,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-First, we will create a "Supreme Admin" role and give this role full access. To do this, access the Admin panel and go to "Agents," then go to "Roles," then "Add New Role." Enter the name "Supreme Admin. Go to "Permissions," and check each box, this gives the agents access to perform these tasks.
+First, we will create a "Supreme Admin" role and give this role full access. To do this, access the Admin panel and go to "Agents," then go to "Roles," then "Add New Role." Enter the name "Supreme Admin." Navigate to "Permissions" and check each box, this gives the agents access to perform these tasks.
 </p>
 <br />
 
