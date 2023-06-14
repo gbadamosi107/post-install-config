@@ -91,11 +91,20 @@ Next, we will configure users. This is anyone, such as the customers or staff, w
 </p>
 <br />
 
-<h3>Step 7: Configure SLAs and Help Topics</h3><br>
+<h3>Step 7: Configure SLAs</h3><br>
 <p>
-<img src="https://i.imgur.com/WJDQ407.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8WYWeTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we will create a team that will allow multiple agents from different departments to collaborate on the same team, for example, when an SLA needs to be met. We will create the team from the Admin Panel, then navigate to "Agents," click "Teams," and select "Add New Team." Name this team "Level II Support," then click the "Members" tab and add yourself to the team.
+Next, we will configure Service Level Agreements (SLAs). The purpose of an SLA is to prioritize ticket requests and provide the length of time in which the help desk administrator expects the tickets to be resolved. To configure the SLAs, go to the "Admin Panel," navigate to "Manage," and then to "SLA." We will create 3 separate SLA plans, "SEV A, SEV B, and SEV C." For the first SLA, click "Add New SLA Plan," name it "SEV A," assign it a grace period of "1" (representing 1 hour), and assign the schedule as "24/7." Next, create the SLA for SEV B, with a grace period of "4" (hours) and a schedule of "24/7." Last, create the SLA for SEV C with a grace period of "8" (hours) and a schedule of "Monoday-Friday."
+</p>
+<br />
+
+<h3>Step 8: Configure Help Topics</h3><br>
+<p>
+<img src="https://i.imgur.com/hipIVGh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Last, we will configure Help Topics. Help topics enable end-users to easily select from a list which issues they need resolved.
 </p>
 <br />
